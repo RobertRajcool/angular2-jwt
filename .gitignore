@@ -7,7 +7,6 @@ Thumbs.db
 
 *.js
 !karma.conf.js
-*.map
 *.d.ts
 !custom.d.ts
 .idea/
